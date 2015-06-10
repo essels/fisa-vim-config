@@ -332,3 +332,9 @@ After installing the font, go to the settings of your terminal app and select th
 
 That's it! Restart your vim and enjoy the beauty of Airline.
 
+## Easier way to get fonts working
+    git clone https://github.com/powerline/fonts
+    ./install.sh
+    
+    # Set the patched font for use in the TERMINAL
+ 
